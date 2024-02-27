@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "what is the capital of india?",
+      "answer": "Delhi"
+    },
+    {
+      "question": "what is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I am fine..How are you?"
+    },
+    {
+      "question": "whats up?",
+      "answer": "Nothing much,What about you.."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "fine",
+      "answer": "How can I help you?"
+    },
+    {
+      "question": "thank you",
+      "answer": "Your always welcome..Do you have any other queries?"
+    },
+    {
+      "question": "no",
+      "answer": "Ok"
+    },
+    {
+      "question": "bye",
+      "answer": "Bye"
+    },
+    {
+      "question": "good morning",
+      "answer": "Great Morning:)"
+    },
+    {
+      "question": "gayathri",
+      "answer": "Friend"
+    },
+    {
+      "question": "disha",
+      "answer": "Friend"
+    },
+    {
+      "question": "anusha",
+      "answer": "patient"
+    }
+  ]
+}
